@@ -1,4 +1,4 @@
-def square_array(numbers)
+def square_array(array)
   index = 0 
   new_array = []
   while array[index] do
